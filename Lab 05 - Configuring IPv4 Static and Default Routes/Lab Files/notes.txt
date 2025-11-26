@@ -1,0 +1,28 @@
+ROUTING 
+
+
+static route - when a network engineer already fixed a pathways or route
+
+default route
+
+dynamic - router communicates with each other directly
+
+
+Statis Routes Types -
+	1. Recursive - 
+	2. Directly Attached
+	3. Fully Specified
+
+
+Process - 
+	ip route [destination network address]
+
+
+L - local (own port)
+C - Directly connected
+S - Static 
+
+
+default route - if the net. address is not in routing table then from which network interface it will get access of exit 
+
+
