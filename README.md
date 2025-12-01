@@ -4,22 +4,23 @@
 ---
 
 ## Repository Structure
+```
 CSE311–312_Computer-Networks/
-│
-├── Lab 01 - Basic Router Config/
-├── Lab 02 - DNS and ARP/
-├── Lab 03 - Identifying Issues over Network & Solutions/
-├── Lab 04 - Troubleshoot Connectivity Issues/
-├── Lab 05 - Configuring IPv4 Static and Default Routes/
-│
-├── Lab Final Practice/
-├── Lab Final Project/
-│
-├── Lab Tasks/
-├── Practice/
-│
-└── README.md
-
+  │
+  ├── Lab 01 - Basic Router Config/
+  ├── Lab 02 - DNS and ARP/
+  ├── Lab 03 - Identifying Issues over Network & Solutions/
+  ├── Lab 04 - Troubleshoot Connectivity Issues/
+  ├── Lab 05 - Configuring IPv4 Static and Default Routes/
+  │
+  ├── Lab Final Practice/
+  ├── Lab Final Project/
+  │
+  ├── Lab Tasks/
+  ├── Practice/
+  │
+  └── README.md
+```
 ---
 
 ## Lab Overview
@@ -41,13 +42,13 @@ Configure static routing, default routes, and validate connectivity paths.
 
 ---
 
-## 📝 Additional Sections
+## Additional Sections
 
 ### **Lab Final Practice**
 Contains practice problems and examples to prepare for the final practical exam.
 
 ### **Lab Final Project**
-The main project folder including checklists, topology files, and required configurations.
+The main project folder includes checklists, topology files, and required configurations.
 
 ### **Lab Tasks**
 A set of supplementary lab exercises meant to reinforce course topics.
