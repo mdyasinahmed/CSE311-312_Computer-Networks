@@ -1,0 +1,19 @@
+### 
+Commands Used in R1(RECURSIVE STATIC ROUTES)-
+
+ip route 172.31.0.0 255.255.255.0 172.31.1.193
+ip route 172.31.1.196 255.255.255.252 172.31.1.193
+ip route 172.31.1.128 255.255.255.192 172.31.1.193
+
+
+### 
+Commands Used in R2(DIRECTLY ATTACHED STATIC ROUTES)-
+
+ip route 172.31.1.0 255.255.255.128 Serial0/0/0
+ip route 172.31.1.128 255.255.255.192 Serial0/0/1
+
+
+### 
+Commands Used in R3(DEFAULT ROUTE)-
+
+ip route 0.0.0.0 0.0.0.0 Serial0/0/1
