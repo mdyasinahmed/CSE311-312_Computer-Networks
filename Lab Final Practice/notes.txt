@@ -1,1 +1,6 @@
-
+Checklist:
+1. Basic Router Configuration
+2. DNS and ARP
+3. Use Ping and Traceroute to Test Network Connectivity
+4. Troubleshoot Connectivity Issues
+5. Configuring IPv4 Static and Default Routes
