@@ -47,8 +47,8 @@ Configure static routing, default routes, and validate connectivity paths.
 ### **Lab Final Practice**
 Contains practice problems and examples to prepare for the final practical exam.
 
-### **Lab Final Project**
-The main project folder includes checklists, topology files, and required configurations.
+### **Lab Project**
+A complete network design based on a scenario. The main project folder includes checklists, topology files, and required configurations.
 
 ### **Lab Tasks**
 A set of supplementary lab exercises meant to reinforce course topics.
