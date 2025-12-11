@@ -26,3 +26,9 @@ S - Static
 default route - if the net. address is not in routing table then from which network interface it will get access of exit 
 
 
+default route = S*
+
+
+Floating Routes
+
+Administrative Distance -> AD
